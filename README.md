@@ -9,8 +9,7 @@ The objective of this task is to learn how to discover open ports on devices wit
 
 ## 🛠 Tools Used
 - Nmap
-- Windows Command Prompt / Terminal
-- 
+- --
 🌐 Network Information
 
 Local IP Address: 192.168.1.5
