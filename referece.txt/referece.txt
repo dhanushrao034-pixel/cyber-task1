@@ -1,0 +1,7 @@
+1.  Nmap Official Website – https://nmap.org
+2.  Nmap Documentation – https://nmap.org/docs.html
+3.  Gordon Lyon (Fyodor). Nmap Network Scanning: The Official Nmap
+    Project Guide to Network Discovery and Security Scanning.
+4.  Wireshark Official Website – https://www.wireshark.org
+5.  Cisco Networking Basics – https://www.cisco.com
+6.  OWASP Network Security Resources – https://owasp.org
